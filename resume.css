@@ -37,7 +37,7 @@
 {
     width:200px;
     height:200px;
-    margin-left:550px;
+    margin-left:600px;
     margin-top:20px;
     background-color:rgb(58, 52, 52);
     border-radius:50%;
@@ -190,8 +190,10 @@
     color:white;
     background-color:black;
     border-radius:5px;
-    margin-left:550px;
+    margin-left:600px;
     margin-top:30px;
+    text-decoration:none;
+
 }
 .button p{
     font-size:20px;
@@ -204,7 +206,7 @@
     font-size:30px;
     color:black;
     display:inline;
-    margin-left:600px;
+    margin-left:650px;
     margin-bottom:10px;
 }
 .main4
@@ -221,7 +223,7 @@
 {
     height:100px;
     width:100%;
-    background-color: rgb(27, 26, 26);
+    background-color:rgb(2, 2, 2);
     color:white;
     text-align:center;
 }
@@ -359,7 +361,7 @@
     font-size:30px;
     color:black;
     display:inline;
-    margin-left:550px;
+    margin-left:600px;
     margin-bottom:10px;
 }
 #cont
@@ -369,7 +371,7 @@
     font-size:30px;
     color:black;
     display:inline;
-    margin-left:550px;
+    margin-left:600px;
     margin-bottom:10px;
 }
 #eml

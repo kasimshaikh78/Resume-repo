@@ -82,6 +82,8 @@
 {
     font-family:Cambria;
     font-size:30px;
+    margin-left:615px;
+    margin-bottom:20px;
 }
 #p2
 {
@@ -419,5 +421,12 @@
 }
 #my_intro{
     padding:30px;
-
+}
+#pro_7
+{
+   padding:30px;
+}
+#pro_8{
+    font-family:Cambria;
+    font-size:30px;   
 }

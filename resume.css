@@ -84,6 +84,7 @@
     font-size:30px;
     margin-left:615px;
     margin-bottom:20px;
+    text-decoration:dashed;
 }
 #p2
 {
@@ -421,10 +422,12 @@
 }
 #my_intro{
     padding:30px;
+    line-height:30px;
 }
 #pro_7
 {
    padding:30px;
+   line-height:30px;
 }
 #pro_8{
     font-family:Cambria;
